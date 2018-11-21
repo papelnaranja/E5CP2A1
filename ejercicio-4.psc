@@ -1,0 +1,3 @@
+Algoritmo mayorDeTres
+	
+FinAlgoritmo
